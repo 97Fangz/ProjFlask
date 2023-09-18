@@ -1,1 +1,1 @@
-Responsive Flask Blogging Project
+Responsive Flask Blogging Project: 
